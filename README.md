@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @navjyot18
 - 👀 I’m interested in Developement
+- 🎓 SDE @BIK
 - 🎓 Technical Intern @Rakuten
 - ✔️ Technical Skills: Java, Html, Css, Javascript, React.js, SQL, OOPS, Ds & Algo
 - 🌱 I’m currently a B.tech Student at SGGS, Nanded
